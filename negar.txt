@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hajabas
+=======
+text
+123
+>>>>>>> 43b7ceec56905270de2f275d65e83d7ff52ab8d6
